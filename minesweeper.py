@@ -1,4 +1,4 @@
-"""A Minesweeper generator for Discord using spoilers (since those are popular now)."""
+"""A minesweeper generator for discord using spoilers."""
 import random
 import numpy as np
 from discord.ext import commands
